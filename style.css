@@ -1,7 +1,19 @@
-: :root: {
-  -- cor de fundo: #1E1E1E; 
-  -- verde: #6FFF57;
-  -- branco: #FFFFF;
-  -- botao-ativo: #3A75E;
-  --botao inativo  
+: :root {
+  --cor-de-fundo: #1e1e1e;
+  --verde: #6FFF57;
+  --branco: #FFFFFF;
+  --botao-ativo: #3a375e;
+  --botao-inaivo: rgba(58, 55, 94, 0.5);
+  --texto-funo: rgba(58, 55, 94, 0.3);
+
+
+}body {
+  background-color: var(--cor-de-undo);
+  color: var(--brano);
+  font-family: 'Charkra Petch', sans-serif;
+  
+
+
+
+
 }
